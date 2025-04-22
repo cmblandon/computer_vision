@@ -1,0 +1,7 @@
+# Ingnore files and directories in the project
+Taller01-clasificacion/data/**/
+Taller02-clasificacion/data/**/
+Taller02-clasificacion/AutogluonModels/**/
+# Ignore .tar files
+*.tar.gz
+
