@@ -2,6 +2,12 @@
 Taller01-clasificacion/data/**/
 Taller02-clasificacion/data/**/
 Taller02-clasificacion/AutogluonModels/**/
+Taller03-TransferLearning/data/**/
+automm_labelme_features/
+helmetDetection/
 # Ignore .tar files
 *.tar.gz
+*.tsv
+classes.txt
+
 
