@@ -9,5 +9,6 @@ helmetDetection/
 *.tar.gz
 *.tsv
 classes.txt
+.idea/
 
 
